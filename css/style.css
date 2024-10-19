@@ -12,7 +12,7 @@ header {
   width: 1440px;
   background-color: #2a9d8f;
   margin: auto;
-  padding: 46px 130px;
+  padding: 38px 130px;
 }
 
 .logo_link {
@@ -54,7 +54,6 @@ li {
 
 .section_main {
   width: 1440px;
-  height: 640px;
   margin: auto;
   background-color: #d4f3f0;
   padding: 80px 130px;
@@ -62,16 +61,12 @@ li {
 
 .section_secondary {
   width: 460px;
-  height: 448px;
   display: inline-block;
   vertical-align: top;
   margin-left: 116px;
 }
 
 .section_image {
-  width: 600px;
-  height: 480px;
-  display: inline-block;
   vertical-align: top;
 }
 
@@ -142,7 +137,7 @@ footer {
   width: 1440px;
   background-color: #2a9d8f;
   margin: auto;
-  padding: 38px 630px;
+  padding: 38px 636px;
 }
 
 h2 {
@@ -169,6 +164,7 @@ h2 {
 .icon_link {
   width: 18px;
   height: 18px;
+  display: inline-block;
 }
 
 .icon_img {
